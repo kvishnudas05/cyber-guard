@@ -11,7 +11,7 @@ CyberGuard is an advanced cybersecurity solution designed to combat the rising t
 3) SIEM Integration: CyberGuard seamlessly integrates with Security Information and Event Management (SIEM) systems, enhancing the overall visibility and monitoring capabilities of the organization's security infrastructure. This integration ensures that relevant security events are aggregated, correlated, and analyzed in real-time. 
 4) API Integration: CyberGuard supports seamless integration with other cybersecurity tools and systems through APIs. This enables organizations to leverage existing investments in security technologies while benefiting from the advanced capabilities of CyberGuard.
 
-<b> results </b>
+<b> Results: </b>
 
 1) in this  image its the scanning tab where we can give input as file, ip addresses or url
 
