@@ -21,3 +21,8 @@ CyberGuard is an advanced cybersecurity solution designed to combat the rising t
 
 ![image](https://github.com/kvishnudas05/cyber-guard/assets/71248979/52b8af2f-d4d4-4350-b29b-39e7ae9262f4)
 
+
+<b> Disclaimer: </b> <br>
+
+
+While CyberGuard strives to provide comprehensive cybersecurity protection, no security solution can guarantee complete immunity from cyber threats. It is essential for organizations to adopt a multi-layered security approach and regularly update their security measures to stay ahead of evolving threats.
